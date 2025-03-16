@@ -40,5 +40,5 @@ This **Excel-based dashboard** serves as a valuable tool for business decision-m
 
 ## Dashboard
 
-![Screenshot demo1](https://github.com/Mutiu123/Excel-Based-Sales-and-Profit-Analysis-Dashboard-for-Business-Optimisation/tree/main/demo)
+![Screenshot demo1](https://github.com/Mutiu123/Excel-Based-Sales-and-Profit-Analysis-Dashboard-for-Business-Optimisation/blob/main/demo/Screenshot%202025-03-16%20214739.jpg)
 
