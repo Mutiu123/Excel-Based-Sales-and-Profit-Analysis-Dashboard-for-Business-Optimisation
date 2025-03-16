@@ -40,5 +40,5 @@ This **Excel-based dashboard** serves as a valuable tool for business decision-m
 
 ## Dashboard
 
-![Screenshot demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/demo.jpg)
+![Screenshot demo1](https://github.com/Mutiu123/Excel-Based-Sales-and-Profit-Analysis-Dashboard-for-Business-Optimisation/tree/main/demo)
 
