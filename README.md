@@ -24,8 +24,6 @@ This project involves the creation of an **Excel-based interactive dashboard** d
 - Analysed sales and profit distribution across payment methods (e.g., Cash, Credit Card, Bank Transfer).  
 - Determined which payment methods contribute the most to profitability.  
 
-### 6. Discount Impact Analysis  
-- Measured the effect of discounts on revenue and profit margins.  
 
 ## Dashboard Features  
 - **Interactive filters** for dynamic data exploration.  
@@ -40,22 +38,7 @@ This **Excel-based dashboard** serves as a valuable tool for business decision-m
 
 ---
 
-## Screenshots
+## Dashboard
 
 ![Screenshot demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/demo.jpg)
 
-## Female Only Filter
-
-![Female Only demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Female%20only%20filter.jpg)
-
-## Health Insurance Filter
-
-![Health Insurance demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Health%20Insurance.jpg)
-
-## Published Customer Feedback
-
-![Published Customer Feedback](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Published%20Customer%20Feedback.jpg)
-
-## Filtered Published Customer Feedback
-
-![Filtered Published Customer Feedback](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Filtered%20Published%20Customer%20Feedback.jpg)
